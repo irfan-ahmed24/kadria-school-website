@@ -13,9 +13,14 @@
                 <div class="hidden md:flex items-center space-x-8">
                     <a href="#home" class="text-gray-700 hover:text-primary transition-colors font-medium">Home</a>
                     <a href="#about" class="text-gray-700 hover:text-primary transition-colors font-medium">About</a>
-                    <a href="#services" class="text-gray-700 hover:text-primary transition-colors font-medium">Services</a>
-                    <a href="#programs" class="text-gray-700 hover:text-primary transition-colors font-medium">Programs</a>
+                    <a href="#teachers" class="text-gray-700 hover:text-primary transition-colors font-medium">Teachers</a>
+                    <a href="#gallery" class="text-gray-700 hover:text-primary transition-colors font-medium">Galary</a>
                     <a href="#contact" class="text-gray-700 hover:text-primary transition-colors font-medium">Contact</a>
+                    <a href="#admissions" class="bg-accent text-white px-8 py-4 rounded-full font-semibold hover:bg-yellow-500 transition-all duration-300 hover-lift">
+                        <i class="fas fa-rocket mr-2"></i>
+                        Apply Now
+                    </a>
+
                     
                     <!-- Login Dropdown -->
                     <div class="relative">
