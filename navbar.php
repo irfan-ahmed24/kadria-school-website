@@ -16,7 +16,7 @@
                     <a href="#teachers" class="text-gray-700 hover:text-primary transition-colors font-medium">Teachers</a>
                     <a href="#gallery" class="text-gray-700 hover:text-primary transition-colors font-medium">Galary</a>
                     <a href="#contact" class="text-gray-700 hover:text-primary transition-colors font-medium">Contact</a>
-                    <a href="#admissions" class="bg-accent text-white px-8 py-4 rounded-full font-semibold hover:bg-yellow-500 transition-all duration-300 hover-lift">
+                    <a href="#apply" class="bg-accent text-white px-8 py-4 rounded-full font-semibold hover:bg-yellow-500 transition-all duration-300 hover-lift">
                         <i class="fas fa-rocket mr-2"></i>
                         Apply Now
                     </a>

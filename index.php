@@ -92,7 +92,10 @@
             </div>
         </div>
     </section>
-
+    <!-- apply now section -->
+     <?php 
+     include 'public/apply.php';
+     ?>
     <!-- Contact Section -->
     <section id="contact" class="py-20 bg-white">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
